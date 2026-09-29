@@ -6,7 +6,7 @@ Cada disciplina tem a sua pasta. Cada exemplo fica numa pasta própria, com os a
 
 ## GPTI
 
-- [Módulo de inscrição em disciplinas](gpti/inscricao-em-disciplinas/plano-de-projeto.md) — protótipo acadêmico, com caso de negócio, termo de abertura, plano e dicionário da EAP. A semana 1 começou em 03/08/2026. A AV1 é na semana letiva 8.
+- [Módulo de inscrição em disciplinas](gpti/inscricao-em-disciplinas/README.md) — protótipo acadêmico. A semana 1 começou em 03/08/2026. A AV1 é na semana letiva 8.
 
 ## PSW
 
